@@ -1,0 +1,1 @@
+input_operation = input("Введите операцию: ")
